@@ -1,5 +1,5 @@
 # GifLand
-Welcome to GifLand!
+Welcome to GifLand! Visit my webpage by following this link: https://teellis20.github.io/GifLand/
 
 Using the giphy api, I've created a web page where you can search gifs of your favorite wrestlers! (or just any gifs at all)
 
