@@ -2,3 +2,32 @@ img {
     width: 200px;
     height: 200px;
 }
+
+.searchImage {
+    float: left;
+    margin: 10px;
+}
+
+#inputLand {
+    padding-bottom: 25px;
+}
+
+button {
+    margin: 7px;
+    background: whitesmoke;
+    
+}
+
+#submit-button {
+    margin-top: 7px;
+    background: whitesmoke;
+}
+
+body {
+    background-color: slateblue
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px black;
+}
