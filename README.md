@@ -7,4 +7,3 @@ To navigate the page, either select one of the pre-populated buttons or create y
 
 Once the gifs load to the page, you can view the animation by clicking on the gif still.
 
-An error that I've noticed when trying to use this application via the url listed is that you may need to allow for the site to "load unsafe scripts" for the gifs to actually appear on the screen. On Chrome to allow this, just click the little shield icon that appears in the right of the address bar.
