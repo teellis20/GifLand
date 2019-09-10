@@ -22,7 +22,7 @@ $(function(){
         $("#gifLand").empty();
         var type = $(this).data("type");
         console.log(type);
-        var buttonUrl = "http://api.giphy.com/v1/gifs/search?q=" + type + "&api_key=ezSy7xkZNG8LrRcs8Pgpy2T5PVTc14f6";
+        var buttonUrl = "https://api.giphy.com/v1/gifs/search?q=" + type + "&api_key=ezSy7xkZNG8LrRcs8Pgpy2T5PVTc14f6";
         $.ajax({url:buttonUrl,method:'GET'})
     .done(function(response){
         for(var i = 0; i < response.data.length; i++) {
